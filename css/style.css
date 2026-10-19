@@ -1,0 +1,26 @@
+body {
+background: #F7F3E8;
+color: #262626;
+}
+header {
+background: #1F6F3E;
+color: #F7F3E8;
+}
+h2,h1,h3 {
+color: #1F6F3E;
+border-width: 2px;
+border-style: solid;
+padding-top: 50px;
+padding-left: 50px;
+padding-bottom: 50px;
+padding-right: 50px;
+}
+strong,em,a {
+    border: 3px solid brown;
+}
+main{
+    display:block;
+}
+nav{
+    position: sticky;
+}
