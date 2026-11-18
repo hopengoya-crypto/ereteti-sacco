@@ -1,4 +1,4 @@
- <aside>
+<aside>
     <h2>Notices</h2>
     <ul>
       <li>Milk is paid at

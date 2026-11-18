@@ -22,5 +22,3 @@
 <li><a href="deliveries.php">Deliveries</a></li>
 </ul>
 </nav>
-       
-  
